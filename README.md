@@ -1,2 +1,2 @@
 # SubtitlePlugin
-Using for only detailed subtitle window
+Using only detailed subtitle window for Yukarinette
